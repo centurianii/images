@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="-20 0 64 64"
+   preserveAspectRatio="none"
+   version="1.1"
+   id="svg13"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2">Bottle</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6">
+    <rect
+       x="201.62867"
+       y="501.35116"
+       width="364.71445"
+       height="174.67709"
+       id="rect81969" />
+    <rect
+       x="401.3895"
+       y="42.822038"
+       width="323.27724"
+       height="185.06155"
+       id="rect69514" />
+    <rect
+       x="573.97381"
+       y="115.64617"
+       width="208.37841"
+       height="211.9498"
+       id="rect33310" />
+    <rect
+       x="523.81811"
+       y="120.35791"
+       width="236.03994"
+       height="103.3301"
+       id="rect9936" />
+    <rect
+       x="573.97381"
+       y="115.64617"
+       width="208.37841"
+       height="211.9498"
+       id="rect46857" />
+    <rect
+       x="573.97381"
+       y="115.64617"
+       width="208.37841"
+       height="211.9498"
+       id="rect50873" />
+    <rect
+       x="573.97381"
+       y="115.64617"
+       width="208.37841"
+       height="211.9498"
+       id="rect51015" />
+    <rect
+       x="401.3895"
+       y="42.822038"
+       width="323.27724"
+       height="185.06155"
+       id="rect76704" />
+    <rect
+       x="573.97381"
+       y="115.64617"
+       width="208.37841"
+       height="211.9498"
+       id="rect77022" />
+    <rect
+       x="573.97381"
+       y="115.64617"
+       width="208.37841"
+       height="211.9498"
+       id="rect77044" />
+    <rect
+       x="573.97381"
+       y="115.64617"
+       width="208.37841"
+       height="211.9498"
+       id="rect89177" />
+  </defs>
+  <metadata
+     id="metadata938">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Bottle</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g835"
+     transform="matrix(2.6666666,0,0,2.6666666,-19.852159,0.00501214)"
+     style="display:inline">
+    <path
+       d="M 19.2,6.67 12.34,0 H 2.74 A 2.77,2.77 0 0 0 0.81,0.78 2.62,2.62 0 0 0 0,2.67 V 21.33 A 2.62,2.62 0 0 0 0.81,23.22 2.77,2.77 0 0 0 2.74,24 h 13.72 a 2.77,2.77 0 0 0 1.93,-0.78 2.62,2.62 0 0 0 0.81,-1.89 V 20 H 24 V 9.33 H 19.2 Z M 11.66,2.16 17,7.33 h -5.34 z m 11,8.51 v 8 H 6.17 v -8 z"
+       id="path2-8"
+       style="display:inline;fill:#b3740d;fill-opacity:1" />
+    <path
+       d="m 11.76,13.69 a 1.71,1.71 0 0 1 -0.12,0.71 1.58,1.58 0 0 1 -0.43,0.59 2.41,2.41 0 0 1 -1.56,0.46 h -0.5 v 1.89 H 8 V 12 h 1.76 a 2.22,2.22 0 0 1 1.5,0.42 1.67,1.67 0 0 1 0.38,0.58 1.6,1.6 0 0 1 0.12,0.69 z M 9.12,14.54 H 9.51 A 1.29,1.29 0 0 0 10.3,14.33 0.9,0.9 0 0 0 10.51,14.06 0.88,0.88 0 0 0 10.58,13.74 0.89,0.89 0 0 0 10.53,13.42 1,1 0 0 0 10.36,13.15 1,1 0 0 0 9.67,13 H 9.15 v 1.57 z"
+       id="path4"
+       style="display:inline;fill:#b3740d;fill-opacity:1" />
+    <path
+       d="m 17.33,14.65 a 2.7,2.7 0 0 1 -0.16,1.09 2.64,2.64 0 0 1 -0.61,0.93 3.13,3.13 0 0 1 -2.22,0.7 H 12.77 V 12 h 1.73 a 3,3 0 0 1 2.09,0.7 2.47,2.47 0 0 1 0.74,1.92 z m -1.21,0 c 0,-1.14 -0.52,-1.7 -1.56,-1.7 h -0.64 v 3.46 h 0.5 a 1.53,1.53 0 0 0 1.7,-1.76 z"
+       id="path6"
+       style="display:inline;fill:#b3740d;fill-opacity:1" />
+    <path
+       d="M 19.6,17.37 H 18.45 V 12 h 3.16 v 1 h -2 v 1.38 h 1.87 v 0.94 H 19.6 Z"
+       id="path8"
+       style="display:inline;fill:#b3740d;fill-opacity:1" />
+  </g>
+</svg>
